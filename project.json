@@ -1,0 +1,27 @@
+{
+  "overview": "Anne Arundel Dermatology's professional website featuring a bold, modern design with a full-width video hero, mega menu navigation, scrolling ticker ribbon, and comprehensive sections for services, providers, locations, and patient resources.",
+  "features": [
+    "Full-width autoplay video hero banner",
+    "Sticky header with mega menu dropdowns",
+    "Scrolling ticker ribbon animation",
+    "Services showcase (Dermatology, Skin Cancer, Aesthetics)",
+    "Stats bar with key practice metrics",
+    "Why us section with 6 feature cards",
+    "Patient testimonials section",
+    "Provider team showcase",
+    "Locations map section",
+    "Patient resources/blog section",
+    "CTA footer banner",
+    "Responsive mobile design"
+  ],
+  "category": "healthcare",
+  "tags": [
+    "dermatology",
+    "medical",
+    "healthcare",
+    "website",
+    "video-hero",
+    "mega-menu"
+  ],
+  "last_updated": "2026-04-09T07:02:51.407Z"
+}
